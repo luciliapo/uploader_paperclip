@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # uploader_paperclip
+
+Extracted from: https://www.sitepoint.com/uploading-files-with-paperclip/
